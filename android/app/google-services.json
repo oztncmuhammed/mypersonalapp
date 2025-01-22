@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "107169289121",
+    "firebase_url": "https://personalapp-4e619-default-rtdb.firebaseio.com",
+    "project_id": "personalapp-4e619",
+    "storage_bucket": "personalapp-4e619.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107169289121:android:7984f3ea795091088ff1e0",
+        "android_client_info": {
+          "package_name": "personalpp.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlz6t6Ur71tTGyhSpzGVBgTO2i6jMRGms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
